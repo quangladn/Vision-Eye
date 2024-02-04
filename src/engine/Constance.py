@@ -1,0 +1,2 @@
+def NoneFunction(*args):
+    return "."
